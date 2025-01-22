@@ -1,5 +1,6 @@
-DevStack is a set of scripts and utilities to quickly deploy an OpenStack cloud
-from git source trees.
+
+What is DevStack?
+DevStack is a lightweight, script-based tool specifically designed for deploying and testing OpenStack environments. It provides a quick, easy, and flexible way to set up an OpenStack cloud, making it a popular choice among developers, testers, and OpenStack enthusiasts. While it is not intended for production use, DevStack is an invaluable tool for learning, experimenting, and developing with OpenStack.
 
 Goals
 =====
